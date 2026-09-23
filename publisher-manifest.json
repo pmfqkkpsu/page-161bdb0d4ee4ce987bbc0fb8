@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0653e98c074bcc9920a521dd",
+  "owner": "pmfqkkpsu",
+  "repo": "page-161bdb0d4ee4ce987bbc0fb8",
+  "title": "27SSR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "161bdb0d4ee4ce987bbc0fb8",
+      "a": "27SSR",
+      "b": "2027官方最新地址导航",
+      "entity": "27SSR",
+      "brand": "27SSR",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c8ff8e06180fe01eb5856a4105f78be0c1714979d10cae26b984a7eb4e960bb6",
+      "content": {
+        "primary_entity": "27SSR",
+        "keyword1": "27SSR",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据手机、电脑、路由器等实际设备选择对应客户端。",
+          "AI_CLIENTS_TITLE": "按设备选用订阅方式",
+          "AI_CLOSING_TEXT": "在套餐对比中确认设备数量与流量需求，再下载匹配客户端完成订阅导入。",
+          "AI_CLOSING_TITLE": "选好套餐匹配客户端",
+          "AI_DESCRIPTION": "，选择基础版、旗舰版或团队版后，可直接对比月付与年付价格，并依据设备数量安排订阅。旗舰版配备全节点原生流媒体解锁与 IPLC 游戏加速优化，团队版面向多设备场景提供 VIP 专属高带宽节点与企业定制路由。不同客户端支持情况有差异，需要按设备类型下载对应版本并按说明导入订阅。",
+          "AI_FEATURES_INTRO": "浏览套餐、确认设备数量、设置订阅周期，三个方向决定实际使用体验。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURE_TEXT_1": "基础版适合个人轻度使用，100GB 月流量可满足日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 300GB 流量与 5 台设备在线，IPLC 专线利于游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备与 1000GB 流量，适合多人协作与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量档位选择",
+          "AI_FEATURE_TITLE_2": "设备数量规划",
+          "AI_FEATURE_TITLE_3": "多人协同场景",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅，三个步骤依次进行。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "27SSR 提供基础版、旗舰版、团队版三档订阅，按月或按年计费，覆盖个人到多人场景。选好套餐后，根据设备类型下载对应客户端，按文档导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "套餐清晰，设备匹配简单",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队需求",
+          "AI_HIGHLIGHT_2": "年付方案降低长期使用成本",
+          "AI_HIGHLIGHT_3": "按设备类型选择对应客户端",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "结合设备数量、月流量与预算，在基础版、旗舰版和团队版之间确定订阅档位。",
+          "AI_STEP_TEXT_2": "确认所用手机、电脑或路由器是否在套餐设备数限制内，再准备对应客户端。",
+          "AI_STEP_TEXT_3": "依照所选客户端文档填入订阅信息，完成连接配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "27SSR 套餐导航",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "27SSR 三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并带 IPLC 专线；团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量可能导致新的设备无法连接，需升级套餐或减少在线设备。",
+          "AI_FAQ_QUESTION_3": "按年付费比按月便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于支付十个月费用。",
+          "AI_FAQ_QUESTION_4": "支持哪些客户端？",
+          "AI_FAQ_ANSWER_4": "常见桌面与移动平台均有对应客户端，具体支持的系统版本以客户端文档为准。导入订阅后按指引配置即可。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速做了优化，适合对延迟敏感的游戏和实时交互场景，同时兼顾流媒体播放。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6ql9da.cn",
+    "host": "6ql9da.cn"
+  },
+  "file_hashes": {
+    "index.html": "230733bd5aca7e3ae41c42a3f35306011e71cebd12c68adcd7f080ffe9c0ccc7",
+    "sitemap.xml": "af32c4cef9683cf7d1bfea43c439d92afb5a1f9f02029dcc17055521ac59a11c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "947175e770058bdc7ff2b5fb0e69b3d97dc402959451f69d0bdb150dc6bbe477",
+    "robots.txt": "fb342432e9096c439dbbc4f99176164b82c409f6fd5d44f853a2d8ede1d7f65a",
+    "0254c46828f6b03211aa7ab605569887.txt": "e9640abd82e53ecdf901ff349a64185d07bda98a0fdb89bb8c79b261320cdc3f"
+  },
+  "revision": "87106a09e395d9d66eab15f1368c45409d41147cb91e941907c72cf1e082c473"
+}
